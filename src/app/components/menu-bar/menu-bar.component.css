@@ -1,0 +1,12 @@
+/* .container-menu-bar {
+  margin: 15px;
+} */
+
+.container-menu-bar > ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.container-menu-bar > ul > li {
+  list-style: none;
+}
